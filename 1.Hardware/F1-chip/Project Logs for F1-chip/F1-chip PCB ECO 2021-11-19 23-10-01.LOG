@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SPI0_MOSI Pin=J1-18
+Removed Pin From Net: NetName=SPI0_MOSI Pin=J1-18
+Removed Pin From Net: NetName=SPI0_MISO Pin=J1-20
+Removed Pin From Net: NetName=SPI0_CS Pin=J1-22
+Removed Pin From Net: NetName=SPI0_CLK Pin=J1-24
+Added Pin To Net: NetName=SPI0_MISO Pin=J1-18
+Added Pin To Net: NetName=SPI0_MISO Pin=J1-18
+Added Pin To Net: NetName=SPI0_CLK Pin=J1-20
+Added Pin To Net: NetName=SPI0_MOSI Pin=J1-22
+Added Pin To Net: NetName=SPI0_CS Pin=J1-24

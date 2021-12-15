@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MICIN Pin=J1-25
+Removed Pin From Net: NetName=HPR Pin=J1-26
+Added Pin To Net: NetName=HPR Pin=J1-25
+Added Pin To Net: NetName=MICIN Pin=J1-26
