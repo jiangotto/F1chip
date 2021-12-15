@@ -1,3 +1,3 @@
-# F1-chip
+# F1chip
 
-![](https://github.com/jiangotto/F1-chip/blob/main/0.Documents/img/F1-chip_v1.png)
+![](https://github.com/jiangotto/F1chip/blob/main/0.Documents/img/F1chip_v1.png)
